@@ -10,5 +10,9 @@ package zoo;
  * @author IAMLUX
  */
 public class Zoo {
+
+    void add(Lion lion) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
