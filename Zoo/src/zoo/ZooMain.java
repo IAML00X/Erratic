@@ -15,6 +15,8 @@ public class ZooMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        Zoo z = new Zoo();
         // TODO code application logic here
     }
     
