@@ -11,4 +11,5 @@ package zoo;
  */
 public class Animal {
     
+    public int amountOfLegs;
 }
