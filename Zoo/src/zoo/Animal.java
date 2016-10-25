@@ -9,7 +9,11 @@ package zoo;
  *
  * @author IAMLUX
  */
-public class Animal {
+public abstract class Animal {
     
     public int amountOfLegs;
+    public String gender; 
+    public abstract void makeSound();
+    
+    
 }
