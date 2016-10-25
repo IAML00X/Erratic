@@ -11,4 +11,13 @@ package zoo;
  */
 public class Lion {
     
+    public void makeSound()
+    {
+        System.out.println("WROOAR");
+    }
+
+    Lion(String male, int i, String wroar) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+    
 }
